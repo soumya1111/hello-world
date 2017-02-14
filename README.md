@@ -1,2 +1,2 @@
 # hello-world
-Testing git repo
+Learning git repo and happy about it .
